@@ -1,2 +1,2 @@
 # Xpanzo
-Personal Expense Management
+* Personal Expense Management
